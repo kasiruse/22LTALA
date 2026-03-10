@@ -1,4 +1,7 @@
+<img align="center" src="https://github.com/user-attachments/assets/67b732ab-b104-4e5b-946d-38bc3dda8738" alt="LinkedIn" width="100%" />
 <img align="center" src="https://github.com/user-attachments/assets/bd0bbd64-23e7-4615-8f73-5abd5b1a8860" alt="LinkedIn" width="100%" />
+
+![Film Tuning GIF by Club do Auto](https://github.com/user-attachments/assets/67b732ab-b104-4e5b-946d-38bc3dda8738)
 
 
 <p align="center">
