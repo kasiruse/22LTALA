@@ -1,9 +1,10 @@
 <h1 align="left">
-  &nbsp; <img src="https://github.com/user-attachments/assets/993b585a-47b8-41aa-ab4a-8fac8116f132" width="50" height="50" align="absmiddle">
+  &nbsp; <img src="https://github.com/user-attachments/assets/993b585a-47b8-41aa-ab4a-8fac8116f132" width="45" height="45" align="absmiddle">
   <span style="vertical-align: absmiddle;">&nbsp; Hello there</span>
 </h1>
 <img align="center" src="https://github.com/user-attachments/assets/8ca92328-1c70-4b74-bba1-ac7612c9d61c" alt="LinkedIn" width="100%" />
-<img align="center" src="https://github.com/user-attachments/assets/0b193d93-2a00-4c89-9e20-f907e843833d" alt="LinkedIn" width="100%" />
+<img align="center" src="https://github.com/user-attachments/assets/b00a9bfa-135c-4864-8cb6-14d085bb81fc" alt="LinkedIn" width="100%" />
+
 
 
 <p align="center">
