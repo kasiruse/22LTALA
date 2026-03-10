@@ -3,6 +3,8 @@
   <span style="vertical-align: absmiddle;">&nbsp; Hello there</span>
 </h1>
 <img align="center" src="https://github.com/user-attachments/assets/8ca92328-1c70-4b74-bba1-ac7612c9d61c" alt="LinkedIn" width="100%" />
+<img align="center" src="https://github.com/user-attachments/assets/0b193d93-2a00-4c89-9e20-f907e843833d" alt="LinkedIn" width="100%" />
+
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
