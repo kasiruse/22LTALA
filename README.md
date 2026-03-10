@@ -1,10 +1,14 @@
 # Welcome!! <img align="left" src="https://github.com/user-attachments/assets/993b585a-47b8-41aa-ab4a-8fac8116f132" alt="LinkedIn" height="50" width="50" />
-
+<img align="center" src="https://github.com/user-attachments/assets/c2aa2361-0f8b-44df-a203-4299122012ac" alt="LinkedIn" width="100%" />
 <img align="center" src="https://github.com/user-attachments/assets/8ff029da-bddb-4ef6-9abd-bfa93aa83e2e" alt="LinkedIn" width="100%" />
 <img align="center" src="https://github.com/user-attachments/assets/67b732ab-b104-4e5b-946d-38bc3dda8738" alt="LinkedIn" width="100%" />
 <img align="center" src="https://github.com/user-attachments/assets/bd0bbd64-23e7-4615-8f73-5abd5b1a8860" alt="LinkedIn" width="100%" />
-
 <p align="center">
+![FilmTuningGIFbyClubdoAuto-ezgif com-added-text(1)]()
+
+
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Kasiruse&fontSize=70" />
 </p>
  <p align="center">
