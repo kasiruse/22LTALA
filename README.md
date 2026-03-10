@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22LTALA&show_icons=true&theme=radical)
 <!--
 **22LTALA/22LTALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
