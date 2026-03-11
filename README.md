@@ -33,7 +33,8 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c-.png" alt="Email" height="60" width="60" /></a>  &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/java.png" alt="Email" height="60" width="60" /></a>  &emsp;
-  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/interface.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/html.png" alt="Email" height="60" width="60" /></a> &emsp;
+  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/interface.png" alt="Email" height="60" width="60" /></a> &emsp;
 
 </p>
 
