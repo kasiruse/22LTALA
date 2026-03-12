@@ -55,9 +55,7 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 <p align="left">
   &emsp; &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/git.png" alt="Email" height="60" width="60" /></a> &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c4d.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/office.webp" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp;
 </p>
 
 <br>
