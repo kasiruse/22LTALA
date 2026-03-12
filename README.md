@@ -9,16 +9,16 @@
 
 <br>
 
-## About me
+## 🧑‍💻 About me
 I am an Informatik (Computer Science) student at TU Berlin. My coding journey started back in my childhood with C++ and C#, and that early curiosity never really left me. Lately, I've been diving deep into how things actually work under the hood. Scoring top grades (like 1.0 in Java and 1.3 in C and MIPS Assembly) wasn't just about passing exams for me; it made me realize how much I enjoy connecting the dots between bare-metal hardware and complex software.
 
-## 🎯 Current Focus
+## 🔭 Current Focus
 Expanding my foundational Computer Science knowledge at TU Berlin.
 
-## Exploring Next
+## 🧭 Exploring Next
 I have a deep fascination for the cyber world and am highly motivated to dive deep into Cybersecurity and Artificial Intelligence.
 
-## 🎨 Creative Edge
+## 💡 Creative Edge
 Beyond writing code, I enjoy blending technology with creativity by designing 3D models and animations in Cinema 4D.
 
 ## ⚙️ My Mindset
@@ -26,7 +26,7 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 
 <br>
 
-## Skills & Tools
+## 🔧 Skills & Tools
 ### Programming Languages
 
 <p align="center">
@@ -58,7 +58,7 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 
 <br>
 
-## Spoken Languages
+## 🌐 Spoken Languages
 * 🇩🇪 **German:** Fluent (C2)
 * 🇬🇧 **English:** Intermediate (B2)
 * 🇮🇷 **Persian:** Native
