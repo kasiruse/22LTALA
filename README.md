@@ -32,11 +32,12 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 <p align="left">
   &emsp; &emsp;
 <a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/c.png" alt="" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c-.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/java.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/html.png" alt="Email" height="60" width="60" /></a> &emsp;
-  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/asm.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c++.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/java.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/html.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/bash.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/cpu.png" alt="Email" height="60" width="60" /></a>
 
 </p>
 
@@ -44,21 +45,20 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 ### Operating Systems
 <p align="left">
   &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Win2.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Arch_Linux.png" alt="Email" height="60" width="60" /></a> &emsp;
-  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/CachyOS.png" alt="Email" height="60" width="60" /></a> &emsp;
-  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Mac.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/win.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/android.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/mac.png" alt="Email" height="60" width="60" /></a> &emsp;
 
 </p>
 
 ### Other Tools
 <p align="left">
   &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/microsoft-office.webp" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Win2.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Arch_Linux.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c4d.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/office.webp" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/git.png" alt="Email" height="60" width="60" /></a> &emsp;
   <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/CachyOS.png" alt="Email" height="60" width="60" /></a> &emsp;
   <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Mac.png" alt="Email" height="60" width="60" /></a> &emsp;
 
@@ -75,9 +75,10 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 
 ## 📫 Let's Connect!
 
-<p align="middle">
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/mail.png" alt="Email" height="55" width="55" /></a>
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/linkedin(2).png" alt="LinkedIn" height="50" width="50" /></a>
+<p align="left">
+   &emsp; &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/gmail.png" alt="Email" height="55" width="55" /></a>
+  &emsp;
+<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
 </p>
 
