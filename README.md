@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-<a href="https://github.com/Kasiruse"><img src="./images/welcome.gif" alt="welcometext" width="100%" /></a>
+<a href="https://github.com/Kasiruse"><img src="./images/welcome.gif" alt="welcome" width="100%" /></a>
 </div>
 
 <br>
@@ -30,30 +30,28 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 ### Programming Languages
 
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" src="./images/c.png" alt="" height="60" width="60" /></a>  &emsp;
-<a href="https://isocpp.org/" target="_blank"><img align="center" src="./images/c++.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" src="./images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://dev.java/" target="_blank"><img align="center" src="./images/java.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="./images/html.png" alt="Email" height="60" width="60" /></a> &emsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" src="./images/bash.png" alt="Email" height="60" width="60" /></a> &emsp;
-<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank"><img align="center" src="./images/cpu.png" alt="Email" height="60" width="60" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" src="./images/c.png" alt="c" height="60" width="60" /></a>  &emsp;
+<a href="https://isocpp.org/" target="_blank"><img align="center" src="./images/c++.png" alt="c++" height="60" width="60" /></a>  &emsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" src="./images/c-sharp.png" alt="csharp" height="60" width="60" /></a>  &emsp;
+<a href="https://dev.java/" target="_blank"><img align="center" src="./images/java.png" alt="java" height="60" width="60" /></a>  &emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="./images/html.png" alt="html" height="60" width="60" /></a> &emsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" src="./images/bash.png" alt="bash" height="60" width="60" /></a> &emsp;
+<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank"><img align="center" src="./images/cpu.png" alt="mips" height="60" width="60" /></a>
 </p>
 
 
 ### Operating Systems
 
 <p align="center">
-<a href="https://www.kernel.org/" target="_blank"><img align="center" src="./images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://www.microsoft.com/windows/" target="_blank"><img align="center" src="./images/win.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://developer.android.com/" target="_blank"><img align="center" src="./images/android.png" alt="Email" height="60" width="60" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img align="center" src="./images/linux.png" alt="linux" height="60" width="60" /></a>  &emsp;
 </p>
 
 ### Other Tools
 
 <p align="center">
-<a href="https://git-scm.com/" target="_blank"><img align="center" src="./images/git.png" alt="Email" height="60" width="60" /></a> &emsp;
-<a href="https://neovim.io/" target="_blank"><img align="center" src="./images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp;
-<a href="https://www.maxon.net/en/cinema-4d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="Email" height="60" width="60" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="center" src="./images/git.png" alt="git" height="60" width="60" /></a> &emsp;
+<a href="https://neovim.io/" target="_blank"><img align="center" src="./images/nvim.png" alt="nvim" height="60" width="60" /></a>  &emsp;
+<a href="https://www.maxon.net/en/cinema-4d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="c4d" height="60" width="60" /></a>
 </p>
 
 <br>
@@ -69,8 +67,8 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 
 <p align="left">
    &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/gmail.png" alt="Email" height="55" width="55" /></a>
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/gmail.png" alt="email" height="55" width="55" /></a>
   &emsp;
-<a href="https://www.linkedin.com/in/kasiruse" target="_blank"><img align="center" src="./images/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/kasiruse" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
