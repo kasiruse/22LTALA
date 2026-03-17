@@ -36,7 +36,8 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 <a href="https://dev.java/" target="_blank"><img align="center" src="./images/java.png" alt="java" height="60" width="60" /></a>  &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="./images/html.png" alt="html" height="60" width="60" /></a> &emsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" src="./images/bash.png" alt="bash" height="60" width="60" /></a> &emsp;
-<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank"><img align="center" src="./images/cpu.png" alt="mips" height="60" width="60" /></a>
+<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank"><img align="center" src="./images/cpu.png" alt="mips" height="60" width="60" /></a> &emsp;
+<a href="https://www.python.org/" target="_blank"><img align="center" src="./images/python.png" alt="python" height="60" width="60" /></a> 
 </p>
 
 
