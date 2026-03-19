@@ -40,16 +40,10 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 <a href="https://www.python.org/" target="_blank"><img align="center" src="./images/python.png" alt="python" height="60" width="60" /></a> 
 </p>
 
-
-### Operating Systems
-
-<p align="center">
-<a href="https://www.kernel.org/" target="_blank"><img align="center" src="./images/linux.png" alt="linux" height="60" width="60" /></a>  &emsp;
-</p>
-
 ### Other Tools
 
 <p align="center">
+<a href="https://www.kernel.org/" target="_blank"><img align="center" src="./images/linux.png" alt="linux" height="60" width="60" /></a>  &emsp;
 <a href="https://git-scm.com/" target="_blank"><img align="center" src="./images/git.png" alt="git" height="60" width="60" /></a> &emsp;
 <a href="https://neovim.io/" target="_blank"><img align="center" src="./images/nvim.png" alt="nvim" height="60" width="60" /></a>  &emsp;
 <a href="https://www.maxon.net/en/cinema-4d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="c4d" height="60" width="60" /></a>
